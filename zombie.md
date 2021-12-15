@@ -1,0 +1,1 @@
+zombie 200hp
