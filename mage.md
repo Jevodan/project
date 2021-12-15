@@ -1,1 +1,1 @@
-mage
+white mage
